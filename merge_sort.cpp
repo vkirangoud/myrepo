@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Counts number of inversions while performing merge sort 
 
 #define N 100000
 FILE *fin = NULL;
