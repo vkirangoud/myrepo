@@ -1,5 +1,5 @@
 ## This is Secondary Heading
-### This tertiary heading
+### This is tertiary heading
 
 * Study R
 * Study Python
